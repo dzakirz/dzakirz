@@ -9,10 +9,10 @@
 
 <h3> 🛠 Tools & Languages </h3>
 
-- 💻   Javascript | PHP | Python
-- 🌐   ReactJS | NodeJS | Laravel
+- 💻   Javascript | Typescript
+- 🌐   NodeJS | ReactJS | React Native
 - 🛢    MySQL | MongoDB | Firebase 
-- 🔧   VSCode | AndroidStudio  
+- 🔧   VSCode | WebStorm  | Postman
 
 <br>
 
