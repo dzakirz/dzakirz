@@ -10,7 +10,7 @@
 <h3> 🛠 Tools & Languages </h3>
 
 - 💻   Javascript | Typescript
-- 🌐   NodeJS | ReactJS | React Native
+- 🌐   NodeJS | ReactJS | NextJS
 - 🛢    MySQL | MongoDB | Firebase 
 - 🔧   VSCode | WebStorm  | Postman
 
