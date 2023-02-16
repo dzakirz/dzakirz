@@ -11,7 +11,7 @@
 
 - 💻   Javascript | Typescript
 - 🌐   NodeJS | ReactJS | NextJS
-- 🛢    MySQL | MongoDB | Firebase 
+- 🛢    MySQL | MongoDB | Postgre 
 - 🔧   VSCode | WebStorm  | Postman
 
 <br>
@@ -20,7 +20,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakirz&layout=compact&&theme=midnight-purple)](https://github.com/dzakirz?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rzdzaky&layout=compact&&theme=midnight-purple)](https://github.com/dzakirz?tab=repositories)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
