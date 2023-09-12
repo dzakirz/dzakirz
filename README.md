@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakirz&layout=compact&&theme=midnight-purple)](https://github.com/dzakirz?tab=repositories)
 
-<h3>Connect with Me 🤝🏻</h3>
+<h3>🤝🏻 Connect with Me</h3>
 
 <p align="left">  
   &nbsp; <a href="https://www.twitter.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50"/></a>  
