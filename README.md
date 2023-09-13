@@ -18,7 +18,7 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakirz&layout=compact&&theme=midnight-purple)](https://github.com/dzakirz?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzakirz&layout=compact&&theme=midnight-purple)](https://github.com/dzakirz?tab=repositories&hide=css,html)
 
 <h3>🤝🏻 Connect with Me</h3>
 
