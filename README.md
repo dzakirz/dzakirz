@@ -7,7 +7,7 @@
 
 <h3> 🛠 Tools & Languages </h3>
 
-- 💻   Javascript | Typescript
+- 💻   Javascript | Typescript | Go
 - 🌐   NodeJS | NextJS | NestJS
 - 🛢    MySQL | PostgreSQL | MongoDB 
 - 🔧   VSCode | Postman
