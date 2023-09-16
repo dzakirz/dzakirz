@@ -25,5 +25,5 @@
 <p align="left">  
   &nbsp; <a href="https://www.twitter.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="50"/></a>  
   &nbsp; <a href="https://www.instagram.com/rzdzaky/" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new.png" width="50"/>
-  &nbsp; <a href="mailto:dzakirz.dev@gmail.com@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50"/></a>
+  &nbsp; <a href="https://mail.google.com/mail/?view=cm&fs=1&to=dzakirz.dev@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" width="50"/></a>
 </p>
