@@ -10,7 +10,7 @@
 - 💻   Javascript | Typescript | Go
 - 🌐   NodeJS | NextJS | NestJS
 - 🛢    MySQL | PostgreSQL | MongoDB 
-- 🔧   VSCode | Postman
+- 🔧   VSCode | Jetbrains | Postman
 
 <br>
 
