@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Dzaki Rozaan. 👋</h2>
+<h2> Hello there, I'm Dzaki Rozaan. 👋</h2>
 
 <h3>👨‍💼 About Me</h3>
 
